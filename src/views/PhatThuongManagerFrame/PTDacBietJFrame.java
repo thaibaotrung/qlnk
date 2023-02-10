@@ -2,6 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
+
+/*
+*Thai Bao Trung
+*12
+*/
 package views.PhatThuongManagerFrame;
 
 import controllers.PhatThuongManagerController.DanhHieuController;
