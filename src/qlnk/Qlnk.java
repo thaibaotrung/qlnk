@@ -4,12 +4,14 @@
  */
 package qlnk;
 
+import java.util.Calendar;
+
 /**
  *
  * @author oOOo
  */
 public class Qlnk {
-
+ public static Calendar calendar = Calendar.getInstance();
     /**
      * @param args the command line arguments
      */
